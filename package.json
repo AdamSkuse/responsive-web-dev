@@ -1,0 +1,19 @@
+{
+  "name": "responsive-web-dev",
+  "version": "1.0.0",
+  "description": "Sitepoint tutorial Responsive Web Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamSkuse/responsive-web-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamSkuse/responsive-web-dev/issues"
+  },
+  "homepage": "https://github.com/AdamSkuse/responsive-web-dev#readme"
+}
