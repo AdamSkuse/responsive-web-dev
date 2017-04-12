@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AdamSkuse/responsive-web-dev/issues"
   },
-  "homepage": "https://github.com/AdamSkuse/responsive-web-dev#readme"
+  "homepage": "https://github.com/AdamSkuse/responsive-web-dev#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
